@@ -8,7 +8,7 @@
 
 # Funcionalidades 
 
-- [ ] Criação de novas tarefas
-- [ ] Lista de tarefas
-- [ ] Remoção de tarefa da lista
-- [ ] Progresso de cada tarefa
+- [x] Criação de novas tarefas
+- [x] Lista de tarefas
+- [x] Remoção de tarefa da lista
+- [x] Progresso de cada tarefa
